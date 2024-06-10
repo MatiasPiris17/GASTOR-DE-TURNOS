@@ -1,4 +1,4 @@
-# GASTOR-DE-TURNOS
+# GESTOR-DE-TURNOS
 
 ## Instrucciones de uso
 Configuraciones iniciales, ejecute los siguientes comandos en orden:
